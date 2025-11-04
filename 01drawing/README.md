@@ -1,0 +1,1 @@
+here i created 2 smiley faces and a mouth. I also learned how to create 2 perfect circles and how to colour them in with different types of shades. I used the dark red colour as it defined something scary and bloody. I also made the mouth green as it gave a broad definition of a vampire. the mixture of red and green helps me get a mix of a scary and eerie feeling
