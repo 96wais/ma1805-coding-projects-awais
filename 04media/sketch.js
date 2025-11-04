@@ -14,5 +14,6 @@ function setup() {
 function draw() {
     background(220);
     image(img, 0, 0, windowWidth, windowHeight);
-    circle(50, 50, 50)
+    circle(50, 50, 50);
+     circle(50, 50, 500)
 }
